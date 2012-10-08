@@ -1,0 +1,454 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		796A156C15CED1D20062D758 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 796A156B15CED1D20062D758 /* Foundation.framework */; };
+		796A15AF15CED1F60062D758 /* antlr3.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A157915CED1F60062D758 /* antlr3.h */; };
+		796A15B015CED1F60062D758 /* antlr3baserecognizer.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A157A15CED1F60062D758 /* antlr3baserecognizer.h */; };
+		796A15B115CED1F60062D758 /* antlr3basetree.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A157B15CED1F60062D758 /* antlr3basetree.h */; };
+		796A15B215CED1F60062D758 /* antlr3basetreeadaptor.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A157C15CED1F60062D758 /* antlr3basetreeadaptor.h */; };
+		796A15B315CED1F60062D758 /* antlr3bitset.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A157D15CED1F60062D758 /* antlr3bitset.h */; };
+		796A15B415CED1F60062D758 /* antlr3collections.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A157E15CED1F60062D758 /* antlr3collections.h */; };
+		796A15B515CED1F60062D758 /* antlr3commontoken.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A157F15CED1F60062D758 /* antlr3commontoken.h */; };
+		796A15B615CED1F60062D758 /* antlr3commontree.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158015CED1F60062D758 /* antlr3commontree.h */; };
+		796A15B715CED1F60062D758 /* antlr3commontreeadaptor.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158115CED1F60062D758 /* antlr3commontreeadaptor.h */; };
+		796A15B815CED1F60062D758 /* antlr3commontreenodestream.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158215CED1F60062D758 /* antlr3commontreenodestream.h */; };
+		796A15B915CED1F60062D758 /* antlr3convertutf.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158315CED1F60062D758 /* antlr3convertutf.h */; };
+		796A15BA15CED1F60062D758 /* antlr3cyclicdfa.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158415CED1F60062D758 /* antlr3cyclicdfa.h */; };
+		796A15BB15CED1F60062D758 /* antlr3debugeventlistener.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158515CED1F60062D758 /* antlr3debugeventlistener.h */; };
+		796A15BC15CED1F60062D758 /* antlr3defs.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158615CED1F60062D758 /* antlr3defs.h */; };
+		796A15BD15CED1F60062D758 /* antlr3encodings.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158715CED1F60062D758 /* antlr3encodings.h */; };
+		796A15BE15CED1F60062D758 /* antlr3errors.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158815CED1F60062D758 /* antlr3errors.h */; };
+		796A15BF15CED1F60062D758 /* antlr3exception.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158915CED1F60062D758 /* antlr3exception.h */; };
+		796A15C015CED1F60062D758 /* antlr3filestream.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158A15CED1F60062D758 /* antlr3filestream.h */; };
+		796A15C115CED1F60062D758 /* antlr3input.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158B15CED1F60062D758 /* antlr3input.h */; };
+		796A15C215CED1F60062D758 /* antlr3interfaces.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158C15CED1F60062D758 /* antlr3interfaces.h */; };
+		796A15C315CED1F60062D758 /* antlr3intstream.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158D15CED1F60062D758 /* antlr3intstream.h */; };
+		796A15C415CED1F60062D758 /* antlr3lexer.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158E15CED1F60062D758 /* antlr3lexer.h */; };
+		796A15C515CED1F60062D758 /* antlr3memory.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A158F15CED1F60062D758 /* antlr3memory.h */; };
+		796A15C615CED1F60062D758 /* antlr3parser.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A159015CED1F60062D758 /* antlr3parser.h */; };
+		796A15C715CED1F60062D758 /* antlr3parsetree.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A159115CED1F60062D758 /* antlr3parsetree.h */; };
+		796A15C815CED1F60062D758 /* antlr3recognizersharedstate.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A159215CED1F60062D758 /* antlr3recognizersharedstate.h */; };
+		796A15C915CED1F60062D758 /* antlr3rewritestreams.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A159315CED1F60062D758 /* antlr3rewritestreams.h */; };
+		796A15CA15CED1F60062D758 /* antlr3string.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A159415CED1F60062D758 /* antlr3string.h */; };
+		796A15CB15CED1F60062D758 /* antlr3tokenstream.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A159515CED1F60062D758 /* antlr3tokenstream.h */; };
+		796A15CC15CED1F60062D758 /* antlr3treeparser.h in Headers */ = {isa = PBXBuildFile; fileRef = 796A159615CED1F60062D758 /* antlr3treeparser.h */; };
+		796A15CD15CED1F60062D758 /* antlr3baserecognizer.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A159815CED1F60062D758 /* antlr3baserecognizer.c */; };
+		796A15CE15CED1F60062D758 /* antlr3basetree.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A159915CED1F60062D758 /* antlr3basetree.c */; };
+		796A15CF15CED1F60062D758 /* antlr3basetreeadaptor.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A159A15CED1F60062D758 /* antlr3basetreeadaptor.c */; };
+		796A15D015CED1F60062D758 /* antlr3bitset.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A159B15CED1F60062D758 /* antlr3bitset.c */; };
+		796A15D115CED1F60062D758 /* antlr3collections.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A159C15CED1F60062D758 /* antlr3collections.c */; };
+		796A15D215CED1F60062D758 /* antlr3commontoken.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A159D15CED1F60062D758 /* antlr3commontoken.c */; };
+		796A15D315CED1F60062D758 /* antlr3commontree.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A159E15CED1F60062D758 /* antlr3commontree.c */; };
+		796A15D415CED1F60062D758 /* antlr3commontreeadaptor.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A159F15CED1F60062D758 /* antlr3commontreeadaptor.c */; };
+		796A15D515CED1F60062D758 /* antlr3commontreenodestream.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15A015CED1F60062D758 /* antlr3commontreenodestream.c */; };
+		796A15D615CED1F60062D758 /* antlr3convertutf.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15A115CED1F60062D758 /* antlr3convertutf.c */; };
+		796A15D715CED1F60062D758 /* antlr3cyclicdfa.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15A215CED1F60062D758 /* antlr3cyclicdfa.c */; };
+		796A15D815CED1F60062D758 /* antlr3debughandlers.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15A315CED1F60062D758 /* antlr3debughandlers.c */; };
+		796A15D915CED1F60062D758 /* antlr3encodings.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15A415CED1F60062D758 /* antlr3encodings.c */; };
+		796A15DA15CED1F60062D758 /* antlr3exception.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15A515CED1F60062D758 /* antlr3exception.c */; };
+		796A15DB15CED1F60062D758 /* antlr3filestream.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15A615CED1F60062D758 /* antlr3filestream.c */; };
+		796A15DC15CED1F60062D758 /* antlr3inputstream.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15A715CED1F60062D758 /* antlr3inputstream.c */; };
+		796A15DD15CED1F60062D758 /* antlr3intstream.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15A815CED1F60062D758 /* antlr3intstream.c */; };
+		796A15DE15CED1F60062D758 /* antlr3lexer.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15A915CED1F60062D758 /* antlr3lexer.c */; };
+		796A15DF15CED1F60062D758 /* antlr3parser.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15AA15CED1F60062D758 /* antlr3parser.c */; };
+		796A15E015CED1F60062D758 /* antlr3rewritestreams.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15AB15CED1F60062D758 /* antlr3rewritestreams.c */; };
+		796A15E115CED1F60062D758 /* antlr3string.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15AC15CED1F60062D758 /* antlr3string.c */; };
+		796A15E215CED1F60062D758 /* antlr3tokenstream.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15AD15CED1F60062D758 /* antlr3tokenstream.c */; };
+		796A15E315CED1F60062D758 /* antlr3treeparser.c in Sources */ = {isa = PBXBuildFile; fileRef = 796A15AE15CED1F60062D758 /* antlr3treeparser.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		796A156815CED1D20062D758 /* libantlrciosDebug-iphoneos.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libantlrciosDebug-iphoneos.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		796A156B15CED1D20062D758 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		796A157915CED1F60062D758 /* antlr3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3.h; sourceTree = "<group>"; };
+		796A157A15CED1F60062D758 /* antlr3baserecognizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3baserecognizer.h; sourceTree = "<group>"; };
+		796A157B15CED1F60062D758 /* antlr3basetree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3basetree.h; sourceTree = "<group>"; };
+		796A157C15CED1F60062D758 /* antlr3basetreeadaptor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3basetreeadaptor.h; sourceTree = "<group>"; };
+		796A157D15CED1F60062D758 /* antlr3bitset.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3bitset.h; sourceTree = "<group>"; };
+		796A157E15CED1F60062D758 /* antlr3collections.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3collections.h; sourceTree = "<group>"; };
+		796A157F15CED1F60062D758 /* antlr3commontoken.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3commontoken.h; sourceTree = "<group>"; };
+		796A158015CED1F60062D758 /* antlr3commontree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3commontree.h; sourceTree = "<group>"; };
+		796A158115CED1F60062D758 /* antlr3commontreeadaptor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3commontreeadaptor.h; sourceTree = "<group>"; };
+		796A158215CED1F60062D758 /* antlr3commontreenodestream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3commontreenodestream.h; sourceTree = "<group>"; };
+		796A158315CED1F60062D758 /* antlr3convertutf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3convertutf.h; sourceTree = "<group>"; };
+		796A158415CED1F60062D758 /* antlr3cyclicdfa.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3cyclicdfa.h; sourceTree = "<group>"; };
+		796A158515CED1F60062D758 /* antlr3debugeventlistener.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3debugeventlistener.h; sourceTree = "<group>"; };
+		796A158615CED1F60062D758 /* antlr3defs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3defs.h; sourceTree = "<group>"; };
+		796A158715CED1F60062D758 /* antlr3encodings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3encodings.h; sourceTree = "<group>"; };
+		796A158815CED1F60062D758 /* antlr3errors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3errors.h; sourceTree = "<group>"; };
+		796A158915CED1F60062D758 /* antlr3exception.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3exception.h; sourceTree = "<group>"; };
+		796A158A15CED1F60062D758 /* antlr3filestream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3filestream.h; sourceTree = "<group>"; };
+		796A158B15CED1F60062D758 /* antlr3input.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3input.h; sourceTree = "<group>"; };
+		796A158C15CED1F60062D758 /* antlr3interfaces.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3interfaces.h; sourceTree = "<group>"; };
+		796A158D15CED1F60062D758 /* antlr3intstream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3intstream.h; sourceTree = "<group>"; };
+		796A158E15CED1F60062D758 /* antlr3lexer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3lexer.h; sourceTree = "<group>"; };
+		796A158F15CED1F60062D758 /* antlr3memory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3memory.h; sourceTree = "<group>"; };
+		796A159015CED1F60062D758 /* antlr3parser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3parser.h; sourceTree = "<group>"; };
+		796A159115CED1F60062D758 /* antlr3parsetree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3parsetree.h; sourceTree = "<group>"; };
+		796A159215CED1F60062D758 /* antlr3recognizersharedstate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3recognizersharedstate.h; sourceTree = "<group>"; };
+		796A159315CED1F60062D758 /* antlr3rewritestreams.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3rewritestreams.h; sourceTree = "<group>"; };
+		796A159415CED1F60062D758 /* antlr3string.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3string.h; sourceTree = "<group>"; };
+		796A159515CED1F60062D758 /* antlr3tokenstream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3tokenstream.h; sourceTree = "<group>"; };
+		796A159615CED1F60062D758 /* antlr3treeparser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = antlr3treeparser.h; sourceTree = "<group>"; };
+		796A159815CED1F60062D758 /* antlr3baserecognizer.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3baserecognizer.c; sourceTree = "<group>"; };
+		796A159915CED1F60062D758 /* antlr3basetree.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3basetree.c; sourceTree = "<group>"; };
+		796A159A15CED1F60062D758 /* antlr3basetreeadaptor.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3basetreeadaptor.c; sourceTree = "<group>"; };
+		796A159B15CED1F60062D758 /* antlr3bitset.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3bitset.c; sourceTree = "<group>"; };
+		796A159C15CED1F60062D758 /* antlr3collections.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3collections.c; sourceTree = "<group>"; };
+		796A159D15CED1F60062D758 /* antlr3commontoken.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3commontoken.c; sourceTree = "<group>"; };
+		796A159E15CED1F60062D758 /* antlr3commontree.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3commontree.c; sourceTree = "<group>"; };
+		796A159F15CED1F60062D758 /* antlr3commontreeadaptor.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3commontreeadaptor.c; sourceTree = "<group>"; };
+		796A15A015CED1F60062D758 /* antlr3commontreenodestream.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3commontreenodestream.c; sourceTree = "<group>"; };
+		796A15A115CED1F60062D758 /* antlr3convertutf.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3convertutf.c; sourceTree = "<group>"; };
+		796A15A215CED1F60062D758 /* antlr3cyclicdfa.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3cyclicdfa.c; sourceTree = "<group>"; };
+		796A15A315CED1F60062D758 /* antlr3debughandlers.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3debughandlers.c; sourceTree = "<group>"; };
+		796A15A415CED1F60062D758 /* antlr3encodings.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3encodings.c; sourceTree = "<group>"; };
+		796A15A515CED1F60062D758 /* antlr3exception.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3exception.c; sourceTree = "<group>"; };
+		796A15A615CED1F60062D758 /* antlr3filestream.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3filestream.c; sourceTree = "<group>"; };
+		796A15A715CED1F60062D758 /* antlr3inputstream.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3inputstream.c; sourceTree = "<group>"; };
+		796A15A815CED1F60062D758 /* antlr3intstream.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3intstream.c; sourceTree = "<group>"; };
+		796A15A915CED1F60062D758 /* antlr3lexer.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3lexer.c; sourceTree = "<group>"; };
+		796A15AA15CED1F60062D758 /* antlr3parser.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3parser.c; sourceTree = "<group>"; };
+		796A15AB15CED1F60062D758 /* antlr3rewritestreams.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3rewritestreams.c; sourceTree = "<group>"; };
+		796A15AC15CED1F60062D758 /* antlr3string.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3string.c; sourceTree = "<group>"; };
+		796A15AD15CED1F60062D758 /* antlr3tokenstream.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3tokenstream.c; sourceTree = "<group>"; };
+		796A15AE15CED1F60062D758 /* antlr3treeparser.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = antlr3treeparser.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		796A156515CED1D20062D758 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				796A156C15CED1D20062D758 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		796A155D15CED1D20062D758 = {
+			isa = PBXGroup;
+			children = (
+				796A157815CED1F60062D758 /* include */,
+				796A159715CED1F60062D758 /* src */,
+				796A156D15CED1D20062D758 /* antlrc */,
+				796A156A15CED1D20062D758 /* Frameworks */,
+				796A156915CED1D20062D758 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		796A156915CED1D20062D758 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				796A156815CED1D20062D758 /* libantlrciosDebug-iphoneos.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		796A156A15CED1D20062D758 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				796A156B15CED1D20062D758 /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		796A156D15CED1D20062D758 /* antlrc */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = antlrc;
+			sourceTree = "<group>";
+		};
+		796A157815CED1F60062D758 /* include */ = {
+			isa = PBXGroup;
+			children = (
+				796A157915CED1F60062D758 /* antlr3.h */,
+				796A157A15CED1F60062D758 /* antlr3baserecognizer.h */,
+				796A157B15CED1F60062D758 /* antlr3basetree.h */,
+				796A157C15CED1F60062D758 /* antlr3basetreeadaptor.h */,
+				796A157D15CED1F60062D758 /* antlr3bitset.h */,
+				796A157E15CED1F60062D758 /* antlr3collections.h */,
+				796A157F15CED1F60062D758 /* antlr3commontoken.h */,
+				796A158015CED1F60062D758 /* antlr3commontree.h */,
+				796A158115CED1F60062D758 /* antlr3commontreeadaptor.h */,
+				796A158215CED1F60062D758 /* antlr3commontreenodestream.h */,
+				796A158315CED1F60062D758 /* antlr3convertutf.h */,
+				796A158415CED1F60062D758 /* antlr3cyclicdfa.h */,
+				796A158515CED1F60062D758 /* antlr3debugeventlistener.h */,
+				796A158615CED1F60062D758 /* antlr3defs.h */,
+				796A158715CED1F60062D758 /* antlr3encodings.h */,
+				796A158815CED1F60062D758 /* antlr3errors.h */,
+				796A158915CED1F60062D758 /* antlr3exception.h */,
+				796A158A15CED1F60062D758 /* antlr3filestream.h */,
+				796A158B15CED1F60062D758 /* antlr3input.h */,
+				796A158C15CED1F60062D758 /* antlr3interfaces.h */,
+				796A158D15CED1F60062D758 /* antlr3intstream.h */,
+				796A158E15CED1F60062D758 /* antlr3lexer.h */,
+				796A158F15CED1F60062D758 /* antlr3memory.h */,
+				796A159015CED1F60062D758 /* antlr3parser.h */,
+				796A159115CED1F60062D758 /* antlr3parsetree.h */,
+				796A159215CED1F60062D758 /* antlr3recognizersharedstate.h */,
+				796A159315CED1F60062D758 /* antlr3rewritestreams.h */,
+				796A159415CED1F60062D758 /* antlr3string.h */,
+				796A159515CED1F60062D758 /* antlr3tokenstream.h */,
+				796A159615CED1F60062D758 /* antlr3treeparser.h */,
+			);
+			name = include;
+			path = ../include;
+			sourceTree = "<group>";
+		};
+		796A159715CED1F60062D758 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				796A159815CED1F60062D758 /* antlr3baserecognizer.c */,
+				796A159915CED1F60062D758 /* antlr3basetree.c */,
+				796A159A15CED1F60062D758 /* antlr3basetreeadaptor.c */,
+				796A159B15CED1F60062D758 /* antlr3bitset.c */,
+				796A159C15CED1F60062D758 /* antlr3collections.c */,
+				796A159D15CED1F60062D758 /* antlr3commontoken.c */,
+				796A159E15CED1F60062D758 /* antlr3commontree.c */,
+				796A159F15CED1F60062D758 /* antlr3commontreeadaptor.c */,
+				796A15A015CED1F60062D758 /* antlr3commontreenodestream.c */,
+				796A15A115CED1F60062D758 /* antlr3convertutf.c */,
+				796A15A215CED1F60062D758 /* antlr3cyclicdfa.c */,
+				796A15A315CED1F60062D758 /* antlr3debughandlers.c */,
+				796A15A415CED1F60062D758 /* antlr3encodings.c */,
+				796A15A515CED1F60062D758 /* antlr3exception.c */,
+				796A15A615CED1F60062D758 /* antlr3filestream.c */,
+				796A15A715CED1F60062D758 /* antlr3inputstream.c */,
+				796A15A815CED1F60062D758 /* antlr3intstream.c */,
+				796A15A915CED1F60062D758 /* antlr3lexer.c */,
+				796A15AA15CED1F60062D758 /* antlr3parser.c */,
+				796A15AB15CED1F60062D758 /* antlr3rewritestreams.c */,
+				796A15AC15CED1F60062D758 /* antlr3string.c */,
+				796A15AD15CED1F60062D758 /* antlr3tokenstream.c */,
+				796A15AE15CED1F60062D758 /* antlr3treeparser.c */,
+			);
+			name = src;
+			path = ../src;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		796A156615CED1D20062D758 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				796A15AF15CED1F60062D758 /* antlr3.h in Headers */,
+				796A15B015CED1F60062D758 /* antlr3baserecognizer.h in Headers */,
+				796A15B115CED1F60062D758 /* antlr3basetree.h in Headers */,
+				796A15B215CED1F60062D758 /* antlr3basetreeadaptor.h in Headers */,
+				796A15B315CED1F60062D758 /* antlr3bitset.h in Headers */,
+				796A15B415CED1F60062D758 /* antlr3collections.h in Headers */,
+				796A15B515CED1F60062D758 /* antlr3commontoken.h in Headers */,
+				796A15B615CED1F60062D758 /* antlr3commontree.h in Headers */,
+				796A15B715CED1F60062D758 /* antlr3commontreeadaptor.h in Headers */,
+				796A15B815CED1F60062D758 /* antlr3commontreenodestream.h in Headers */,
+				796A15B915CED1F60062D758 /* antlr3convertutf.h in Headers */,
+				796A15BA15CED1F60062D758 /* antlr3cyclicdfa.h in Headers */,
+				796A15BB15CED1F60062D758 /* antlr3debugeventlistener.h in Headers */,
+				796A15BC15CED1F60062D758 /* antlr3defs.h in Headers */,
+				796A15BD15CED1F60062D758 /* antlr3encodings.h in Headers */,
+				796A15BE15CED1F60062D758 /* antlr3errors.h in Headers */,
+				796A15BF15CED1F60062D758 /* antlr3exception.h in Headers */,
+				796A15C015CED1F60062D758 /* antlr3filestream.h in Headers */,
+				796A15C115CED1F60062D758 /* antlr3input.h in Headers */,
+				796A15C215CED1F60062D758 /* antlr3interfaces.h in Headers */,
+				796A15C315CED1F60062D758 /* antlr3intstream.h in Headers */,
+				796A15C415CED1F60062D758 /* antlr3lexer.h in Headers */,
+				796A15C515CED1F60062D758 /* antlr3memory.h in Headers */,
+				796A15C615CED1F60062D758 /* antlr3parser.h in Headers */,
+				796A15C715CED1F60062D758 /* antlr3parsetree.h in Headers */,
+				796A15C815CED1F60062D758 /* antlr3recognizersharedstate.h in Headers */,
+				796A15C915CED1F60062D758 /* antlr3rewritestreams.h in Headers */,
+				796A15CA15CED1F60062D758 /* antlr3string.h in Headers */,
+				796A15CB15CED1F60062D758 /* antlr3tokenstream.h in Headers */,
+				796A15CC15CED1F60062D758 /* antlr3treeparser.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		796A156715CED1D20062D758 /* antlrc */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 796A157515CED1D20062D758 /* Build configuration list for PBXNativeTarget "antlrc" */;
+			buildPhases = (
+				796A156415CED1D20062D758 /* Sources */,
+				796A156515CED1D20062D758 /* Frameworks */,
+				796A156615CED1D20062D758 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = antlrc;
+			productName = antlrc;
+			productReference = 796A156815CED1D20062D758 /* libantlrciosDebug-iphoneos.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		796A155F15CED1D20062D758 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 796A156215CED1D20062D758 /* Build configuration list for PBXProject "antlrc" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 796A155D15CED1D20062D758;
+			productRefGroup = 796A156915CED1D20062D758 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				796A156715CED1D20062D758 /* antlrc */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		796A156415CED1D20062D758 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				796A15CD15CED1F60062D758 /* antlr3baserecognizer.c in Sources */,
+				796A15CE15CED1F60062D758 /* antlr3basetree.c in Sources */,
+				796A15CF15CED1F60062D758 /* antlr3basetreeadaptor.c in Sources */,
+				796A15D015CED1F60062D758 /* antlr3bitset.c in Sources */,
+				796A15D115CED1F60062D758 /* antlr3collections.c in Sources */,
+				796A15D215CED1F60062D758 /* antlr3commontoken.c in Sources */,
+				796A15D315CED1F60062D758 /* antlr3commontree.c in Sources */,
+				796A15D415CED1F60062D758 /* antlr3commontreeadaptor.c in Sources */,
+				796A15D515CED1F60062D758 /* antlr3commontreenodestream.c in Sources */,
+				796A15D615CED1F60062D758 /* antlr3convertutf.c in Sources */,
+				796A15D715CED1F60062D758 /* antlr3cyclicdfa.c in Sources */,
+				796A15D815CED1F60062D758 /* antlr3debughandlers.c in Sources */,
+				796A15D915CED1F60062D758 /* antlr3encodings.c in Sources */,
+				796A15DA15CED1F60062D758 /* antlr3exception.c in Sources */,
+				796A15DB15CED1F60062D758 /* antlr3filestream.c in Sources */,
+				796A15DC15CED1F60062D758 /* antlr3inputstream.c in Sources */,
+				796A15DD15CED1F60062D758 /* antlr3intstream.c in Sources */,
+				796A15DE15CED1F60062D758 /* antlr3lexer.c in Sources */,
+				796A15DF15CED1F60062D758 /* antlr3parser.c in Sources */,
+				796A15E015CED1F60062D758 /* antlr3rewritestreams.c in Sources */,
+				796A15E115CED1F60062D758 /* antlr3string.c in Sources */,
+				796A15E215CED1F60062D758 /* antlr3tokenstream.c in Sources */,
+				796A15E315CED1F60062D758 /* antlr3treeparser.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		796A157315CED1D20062D758 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		796A157415CED1D20062D758 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		796A157615CED1D20062D758 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/antlrc.dst;
+				HEADER_SEARCH_PATHS = (
+					../include,
+					../,
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				SKIP_INSTALL = YES;
+				STRIP_INSTALLED_PRODUCT = YES;
+			};
+			name = Debug;
+		};
+		796A157715CED1D20062D758 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/antlrc.dst;
+				HEADER_SEARCH_PATHS = (
+					../include,
+					../,
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				SKIP_INSTALL = YES;
+				STRIP_INSTALLED_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		796A156215CED1D20062D758 /* Build configuration list for PBXProject "antlrc" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				796A157315CED1D20062D758 /* Debug */,
+				796A157415CED1D20062D758 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		796A157515CED1D20062D758 /* Build configuration list for PBXNativeTarget "antlrc" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				796A157615CED1D20062D758 /* Debug */,
+				796A157715CED1D20062D758 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 796A155F15CED1D20062D758 /* Project object */;
+}

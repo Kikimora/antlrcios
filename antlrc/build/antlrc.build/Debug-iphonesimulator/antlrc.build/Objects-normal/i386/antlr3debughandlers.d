@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3debughandlers.c \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3defs.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3errors.h \
+  ../antlr3config.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3interfaces.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3convertutf.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3exception.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3encodings.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3string.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3collections.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3bitset.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3input.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3commontoken.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3intstream.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3cyclicdfa.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3baserecognizer.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3tokenstream.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3debugeventlistener.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3basetree.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3commontreenodestream.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3commontreeadaptor.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3basetreeadaptor.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3commontree.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3recognizersharedstate.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3lexer.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3parser.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3treeparser.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3filestream.h \
+  /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../include/antlr3rewritestreams.h
