@@ -1,572 +1,0 @@
-Tantlrc
-v5
-r1
-cCheck dependencies
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3baserecognizer.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3baserecognizer.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetree.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetree.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetreeadaptor.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetreeadaptor.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3bitset.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3bitset.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3collections.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3collections.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontoken.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontoken.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontree.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontree.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreeadaptor.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreeadaptor.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreenodestream.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreenodestream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3convertutf.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3convertutf.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3cyclicdfa.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3cyclicdfa.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3debughandlers.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3debughandlers.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3encodings.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3encodings.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3exception.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3exception.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3filestream.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3filestream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3inputstream.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3inputstream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3intstream.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3intstream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3lexer.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3lexer.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3parser.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3parser.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3rewritestreams.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3rewritestreams.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3string.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3string.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3tokenstream.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3tokenstream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3treeparser.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3treeparser.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/libantlrcDebug-iphonesimulator.a normal i386
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
-c00000000505A928E0000000000000110
-t1348113038
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000005060378100000000003DCEF0
-t1348482945
-s4050672
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3baserecognizer.c
-c000000004E026D700000000000010C3A
-t1308781936
-s68666
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetree.c
-c000000004E026D700000000000003455
-t1308781936
-s13397
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetreeadaptor.c
-c000000004E026D7000000000000075C7
-t1308781936
-s30151
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3bitset.c
-c000000004E026D700000000000003FDF
-t1308781936
-s16351
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3collections.c
-c000000004E026D70000000000001417A
-t1308781936
-s82298
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontoken.c
-c000000004E0A3C5D000000000000413E
-t1309293661
-s16702
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontree.c
-c000000004E0A3C5D0000000000003CBB
-t1309293661
-s15547
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreeadaptor.c
-c000000004E026D700000000000004CBF
-t1308781936
-s19647
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreenodestream.c
-c000000004E026D700000000000006830
-t1308781936
-s26672
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3convertutf.c
-c000000004E026D700000000000004938
-t1308781936
-s18744
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3cyclicdfa.c
-c000000004E026D700000000000001729
-t1308781936
-s5929
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3debughandlers.c
-c000000004E026D7000000000000076EA
-t1308781936
-s30442
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3encodings.c
-c000000004E026D7000000000000008BF
-t1308781936
-s2239
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3exception.c
-c000000004E026D700000000000001510
-t1308781936
-s5392
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3filestream.c
-c000000004E026D700000000000003B0C
-t1308781936
-s15116
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3inputstream.c
-c000000004E026D7000000000000122C7
-t1308781936
-s74439
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3intstream.c
-c000000004E026D7000000000000008B0
-t1308781936
-s2224
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3lexer.c
-c000000004E0A3C5D0000000000006D23
-t1309293661
-s27939
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3parser.c
-c000000004E026D7000000000000014C0
-t1308781936
-s5312
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3rewritestreams.c
-c000000004E026D700000000000006114
-t1308781936
-s24852
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3string.c
-c000000004E0A3C5D0000000000009AFB
-t1309293661
-s39675
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3tokenstream.c
-c000000004E026D70000000000000798D
-t1308781936
-s31117
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3treeparser.c
-c000000004E026D710000000000001F1D
-t1308781937
-s7965
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/libantlrcDebug-iphonesimulator.a
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3baserecognizer.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetree.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetreeadaptor.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3bitset.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3collections.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontoken.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontree.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreeadaptor.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreenodestream.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3convertutf.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3cyclicdfa.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3debughandlers.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3encodings.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3exception.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3filestream.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3inputstream.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3intstream.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3lexer.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3parser.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3rewritestreams.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3string.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3tokenstream.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3treeparser.o
-t2
-s0
-
-N/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlrcDebug-iphonesimulator.LinkFileList
-c000000005072E5FC0000000000000CA2
-t1349707260
-s3234
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0bf0417c1d23b641^4bcb5c7c1d23b641^---0#1#0#--18"Check dependencies36"036FE8BA-4CE1-49B6-9847-7D36C9BA6A6E-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3baserecognizer.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3baserecognizer.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400060.373093
-e371400060.602616
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3baserecognizer.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3baserecognizer.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-o/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3baserecognizer.c:589:51: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]
-o                if      (recognizer->state->following->vector->count >= 0)
-o                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^  ~
-o1 warning generated.
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3baserecognizer.c66d95f7c1d23b641^28659a7c1d23b641^-343"/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3baserecognizer.c:589:51: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]                if      (recognizer->state->following->vector->count >= 0)                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^  ~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@53"Comparison of unsigned expression >= 0 is always true-371400060#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@82"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/src/antlr3baserecognizer.c0000000000000000^588#50#588#50#19988#0#14"Semantic Issue2(3@82"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/src/antlr3baserecognizer.c0000000000000000^588#6#588#49#19944#38#3@82"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/src/antlr3baserecognizer.c0000000000000000^588#53#588#54#19991#0#-0#0#0#-19%DVTDocumentLocation4@92"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3baserecognizer.c0000000000000000^3209"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3baserecognizer.o ../src/antlr3baserecognizer.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3baserecognizer.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3baserecognizer.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3baserecognizer.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3baserecognizer.o36"929FA9FC-F2FA-4621-8039-4FF769463EDD-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetree.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetree.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400060.373697
-e371400060.546754
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetree.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetree.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetree.ce4db5f7c1d23b641^048f8f7c1d23b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetree.c0000000000000000^3173"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetree.o ../src/antlr3basetree.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetree.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetree.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetree.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetree.o36"D45DA78E-F225-4DC4-A393-41042B95A765-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetreeadaptor.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetreeadaptor.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400060.566414
-e371400060.689392
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetreeadaptor.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetreeadaptor.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetreeadaptor.cc93d917c1d23b641^fb93b07c1d23b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetreeadaptor.c0000000000000000^3215"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetreeadaptor.o ../src/antlr3basetreeadaptor.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetreeadaptor.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetreeadaptor.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3basetreeadaptor.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3basetreeadaptor.o36"E532C240-4DD7-4414-A6C5-8BB732B77F00-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3bitset.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3bitset.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400060.604111
-e371400060.758668
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3bitset.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3bitset.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3bitset.c02d49c7c1d23b641^fd4bc27c1d23b641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3bitset.c0000000000000000^3161"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3bitset.o ../src/antlr3bitset.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3bitset.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3bitset.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3bitset.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3bitset.o36"6D83B015-787F-4990-A7FB-78B7396CC59C-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3collections.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3collections.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400060.690715
-e371400060.904891
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3collections.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3collections.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3collections.c9a0ab17c1d23b641^31b7e77c1d23b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3collections.c0000000000000000^3191"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3collections.o ../src/antlr3collections.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3collections.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3collections.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3collections.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3collections.o36"52EB710F-7519-47FF-9855-7FE8042DF912-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontoken.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontoken.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400060.769750
-e371400060.867489
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontoken.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontoken.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontoken.c1d3ec57c1d23b641^3814de7c1d23b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontoken.c0000000000000000^3191"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontoken.o ../src/antlr3commontoken.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontoken.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontoken.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontoken.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontoken.o36"60D91660-2B65-4F47-9229-23015256A3DF-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontree.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontree.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400060.868809
-e371400060.997297
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontree.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontree.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontree.cab98de7c1d23b641^4e5fff7c1d23b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontree.c0000000000000000^3185"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontree.o ../src/antlr3commontree.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontree.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontree.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontree.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontree.o36"5371AC31-2917-4B3D-A64E-79EDD25B96FE-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreeadaptor.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreeadaptor.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400060.907371
-e371400061.019732
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreeadaptor.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreeadaptor.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreeadaptor.c577be87c1d23b641^d61f057d1d23b641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreeadaptor.c0000000000000000^3227"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreeadaptor.o ../src/antlr3commontreeadaptor.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreeadaptor.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreeadaptor.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreeadaptor.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreeadaptor.o36"92F5282B-ADB1-4592-867B-052A673D754E-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreenodestream.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreenodestream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.000045
-e371400061.136342
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreenodestream.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreenodestream.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreenodestream.cf530007d1d23b641^2bf7227d1d23b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreenodestream.c0000000000000000^3245"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreenodestream.o ../src/antlr3commontreenodestream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreenodestream.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreenodestream.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3commontreenodestream.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3commontreenodestream.o36"DAAB5FF2-1F1C-4A60-80E6-642C3F01C797-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3convertutf.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3convertutf.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.029905
-e371400061.119840
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3convertutf.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3convertutf.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3convertutf.c62d6077d1d23b641^3aae1e7d1d23b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3convertutf.c0000000000000000^3185"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3convertutf.o ../src/antlr3convertutf.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3convertutf.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3convertutf.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3convertutf.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3convertutf.o36"F9746944-19AF-43E3-A83E-BB685ED3D860-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3cyclicdfa.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3cyclicdfa.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.121171
-e371400061.232998
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3cyclicdfa.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3cyclicdfa.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3cyclicdfa.c0bcf1f7d1d23b641^925e3c7d1d23b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3cyclicdfa.c0000000000000000^3179"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3cyclicdfa.o ../src/antlr3cyclicdfa.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3cyclicdfa.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3cyclicdfa.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3cyclicdfa.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3cyclicdfa.o36"288ECD80-9BAC-469F-A70A-FA6FCFD1DC22-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3debughandlers.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3debughandlers.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.143915
-e371400061.314277
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3debughandlers.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3debughandlers.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3debughandlers.c8a06257d1d23b641^dc83507d1d23b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3debughandlers.c0000000000000000^3203"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3debughandlers.o ../src/antlr3debughandlers.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3debughandlers.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3debughandlers.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3debughandlers.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3debughandlers.o36"C8E4A5A4-0677-465B-A55D-F4F33B84479A-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3encodings.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3encodings.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.234447
-e371400061.344026
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3encodings.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3encodings.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3encodings.ca4373c7d1d23b641^e221587d1d23b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3encodings.c0000000000000000^3179"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3encodings.o ../src/antlr3encodings.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3encodings.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3encodings.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3encodings.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3encodings.o36"F7610067-5F4E-40DF-915D-6F63B05FA4E7-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3exception.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3exception.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.315937
-e371400061.406333
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3exception.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3exception.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3exception.cdd40517d1d23b641^d025687d1d23b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3exception.c0000000000000000^3179"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3exception.o ../src/antlr3exception.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3exception.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3exception.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3exception.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3exception.o36"ABD97BAC-A0FA-4FFE-BC47-70D069A518EF-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3filestream.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3filestream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.347244
-e371400061.547040
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3filestream.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3filestream.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3filestream.cce34597d1d23b641^711c8c7d1d23b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3filestream.c0000000000000000^3185"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3filestream.o ../src/antlr3filestream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3filestream.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3filestream.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3filestream.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3filestream.o36"05390BBA-0D5D-4A52-9CA1-477997052393-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3inputstream.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3inputstream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.425760
-e371400061.640469
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3inputstream.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3inputstream.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3inputstream.cd5596d7d1d23b641^f818a47d1d23b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3inputstream.c0000000000000000^3191"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3inputstream.o ../src/antlr3inputstream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3inputstream.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3inputstream.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3inputstream.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3inputstream.o36"50C3322F-1B9F-43B6-8E99-81DBEED92BA8-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3intstream.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3intstream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.552897
-e371400061.623710
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3intstream.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3intstream.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3intstream.cc3b68d7d1d23b641^52ed9f7d1d23b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3intstream.c0000000000000000^3179"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3intstream.o ../src/antlr3intstream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3intstream.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3intstream.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3intstream.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3intstream.o36"20558D33-D80F-44A0-B83F-AC40C1E053BE-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3lexer.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3lexer.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.625033
-e371400061.811235
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3lexer.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3lexer.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3lexer.cb62fa07d1d23b641^f1bdcf7d1d23b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3lexer.c0000000000000000^3155"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3lexer.o ../src/antlr3lexer.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3lexer.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3lexer.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3lexer.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3lexer.o36"EE43E877-5D9A-4687-93BC-37FF16558F52-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3parser.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3parser.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.645236
-e371400061.777916
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3parser.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3parser.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3parser.c215ca57d1d23b641^6189c77d1d23b641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3parser.c0000000000000000^3161"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3parser.o ../src/antlr3parser.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3parser.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3parser.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3parser.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3parser.o36"1A93C658-0E08-4E65-A950-F552E058478B-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3rewritestreams.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3rewritestreams.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.780071
-e371400061.934094
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3rewritestreams.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3rewritestreams.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3rewritestreams.c33ddc77d1d23b641^0c21ef7d1d23b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3rewritestreams.c0000000000000000^3209"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3rewritestreams.o ../src/antlr3rewritestreams.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3rewritestreams.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3rewritestreams.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3rewritestreams.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3rewritestreams.o36"42FDBB73-3523-48D4-BF92-4027F1E92516-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3string.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3string.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.814351
-e371400061.953455
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3string.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3string.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3string.c90a4d07d1d23b641^2d24f47d1d23b641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3string.c0000000000000000^3161"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3string.o ../src/antlr3string.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3string.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3string.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3string.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3string.o36"2F44E21B-7440-434F-BAA5-EC57077792E9-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3tokenstream.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3tokenstream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.935560
-e371400062.071016
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3tokenstream.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3tokenstream.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3tokenstream.c32afef7d1d23b641^6f2e127e1d23b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3tokenstream.c0000000000000000^3191"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3tokenstream.o ../src/antlr3tokenstream.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3tokenstream.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3tokenstream.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3tokenstream.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3tokenstream.o36"C9324C6E-28F9-4C78-8F48-894BF96718E3-
-
-CCompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3treeparser.o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3treeparser.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s371400061.976805
-e371400062.098055
-r1
-xCompileC
-xbuild/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3treeparser.o
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3treeparser.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3treeparser.c1d3dfa7d1d23b641^7b30197e1d23b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3treeparser.c0000000000000000^3185"CompileC build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3treeparser.o ../src/antlr3treeparser.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-generated-files.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-own-target-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-all-target-headers.hmap -iquote /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/antlrcDebug-iphonesimulator-project-headers.hmap -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/include -I../include -I.. -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources/i386 -I/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/DerivedSources -F/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3treeparser.d --serialize-diagnostics /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3treeparser.dia -c /Users/averbin/Downloads/libantlr3c-3.4/antlrc/../src/antlr3treeparser.c -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlr3treeparser.o36"1B419728-9DD2-4248-915D-5C7448D2908D-
-
-CLibtool /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/libantlrcDebug-iphonesimulator.a normal i386
-s371400062.105290
-e371400062.149696
-r1
-xLibtool
-x/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/libantlrcDebug-iphonesimulator.a
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Libtool build/Debug-iphonesimulator/libantlrcDebug-iphonesimulator.a normal i386d74f1b7e1d23b641^6666267e1d23b641^---0#0#0#--1327"Libtool build/Debug-iphonesimulator/libantlrcDebug-iphonesimulator.a normal i386    cd /Users/averbin/Downloads/libantlr3c-3.4/antlrc    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/averbin/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/averbin/.rvm/bin:/usr/local/bin:/Users/averbin/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/Marmalade/5.2/s3e/bin:/Users/averbin/bin/Scripts:/Users/averbin/bin/Scripts/git:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator -filelist /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/antlrc.build/Debug-iphonesimulator/antlrc.build/Objects-normal/i386/antlrcDebug-iphonesimulator.LinkFileList -framework Foundation -o /Users/averbin/Downloads/libantlr3c-3.4/antlrc/build/Debug-iphonesimulator/libantlrcDebug-iphonesimulator.a36"7F4412BF-052C-470F-BDF7-E04EBA8DC1EC-
-
